@@ -108,21 +108,23 @@ O Streamlit é apropriado para dashboards leves e interativos em Python, com sup
 
 ### Dashboard principal
 
-
+![Dashboard principal](https://raw.githubusercontent.com/WellNascimento/etl-selic-dollar-dashboard/main/docs/prints/dashboard-home.png)
 
 ### Filtros da dashboard
 
-
+![Filtros da dashboard](https://raw.githubusercontent.com/WellNascimento/etl-selic-dollar-dashboard/main/docs/prints/dashboard-filtros.png)
 
 ### Dados filtrados
 
-
+![Dados filtrados](https://raw.githubusercontent.com/WellNascimento/etl-selic-dollar-dashboard/main/docs/prints/dashboard-dados-filtrados.png)
 
 ### Métricas calculadas
 
-
+![Métricas calculadas](https://raw.githubusercontent.com/WellNascimento/etl-selic-dollar-dashboard/main/docs/prints/dashboard-metricas.png)
 
 ### Execução do pipeline
+
+![Execução do pipeline](https://raw.githubusercontent.com/WellNascimento/etl-selic-dollar-dashboard/main/docs/prints/pipeline-sucesso.png)
 
 
 
